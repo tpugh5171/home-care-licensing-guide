@@ -1,0 +1,5 @@
+{
+  "name": "State Home Care Licensing Guide",
+  "description": "An application that provides detailed home care licensing information for each state in the US, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
